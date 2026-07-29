@@ -39,13 +39,13 @@ A modern and responsive Admin Dashboard built using React and Tailwind CSS.
 
 ### Dashboard (Dark Mode)
 
-![Dashboard Dark](./screenshots/dashboard-dark.png)
+![Dashboard Dark](./screenshots/dashboard-dark.png.png)
 
 ---
 
 ### Login Page
 
-![Login Page](./screenshots/login-page.png)
+![Login Page](./screenshots/login-page.png.png)
 
 ---
 
