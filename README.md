@@ -33,7 +33,7 @@ A modern and responsive Admin Dashboard built using React and Tailwind CSS.
 
 ### Dashboard (Light Mode)
 
-![Dashboard Light](./screenshots/dashboard-light.png)
+![Dashboard Light](./screenshots/dashboard-light.png.png)
 
 ---
 
