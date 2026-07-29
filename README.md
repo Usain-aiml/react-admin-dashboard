@@ -1,16 +1,77 @@
-# React + Vite
+# 🚀 Prescripto Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Admin Dashboard built using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 🌙 Dark Mode
+- 📊 Interactive Apex Charts
+- 👤 Profile Page
+- 🔐 Login & Register UI
+- 🛡 Protected Routes
+- 📱 Fully Responsive Design
+- 🔔 Notification System
+- 🎨 Modern UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- React Router DOM
+- React Icons
+- ApexCharts
+- React Toastify
+- Context API
+
+---
+
+## 📸 Screenshots
+
+### Dashboard (Light Mode)
+
+![Dashboard Light](./screenshots/dashboard-light.png)
+
+---
+
+### Dashboard (Dark Mode)
+
+![Dashboard Dark](./screenshots/dashboard-dark.png)
+
+---
+
+### Login Page
+
+![Login Page](./screenshots/login-page.png)
+
+---
+
+## 📦 Installation
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+ ├── assets/
+ ├── components/
+ ├── context/
+ ├── pages/
+ ├── App.jsx
+ └── main.jsx
+```
+
+---
+
+## 👨‍💻 Author
+
+**Mohammed Usain**
